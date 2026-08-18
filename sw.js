@@ -2,7 +2,7 @@
 const urlsToCache = [
     './',
     './index.html',
-    './manifest.json'
+    './manifest.json',
     './favicon.ico',
     './fetchMoexData.js',
     './sw.js',
